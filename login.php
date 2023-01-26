@@ -51,7 +51,7 @@
 
         <div style="margin-top:50px;">
             <span class="label" style="font-size: 30px; margin-left:1670px;">Belum Punya akun ? <a href="">Daftar</a></span>
-        </div>
+</div>
 
     </div>
 
