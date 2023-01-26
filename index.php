@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.css"> -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <title>Halaman | Landing Page</title>
@@ -17,6 +20,7 @@
                 <a class="navbar-brand" href="#">
                     <img src="assets/Pengadu/layout image/Texture.png" class="img-fluid rounded-top" alt="" style="width: 400px; margin-left:-1rem; margin-top:-1.5rem;">
                     <img src="assets/Pengadu/image/Logo1.png" class="img-fluid rounded-top" alt="" style="margin-left:-350px;">
+                    <img src="assets/Pengadu/layout image/Texture.png" class="img-fluid rounded-top" alt="" style="width: 400px; margin-left:-1rem; margin-top:-1.5rem;">
                     <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -41,7 +45,7 @@
     <div class="slogan" style="margin-left: 60px; margin-top:-30px;">
         <img src="assets/Pengadu/layout image/First On Top.png" class="img-fluid rounded-top" alt="" style="width: 140px;">
         <img src="assets/Pengadu/layout image/5JT+ Lainnya telah melapor.png" class="img-fluid rounded-top" alt="" style="width: 140px;">
-    </div>
+    </div> -->
     <div class="misi" style="margin-left: 60px;">
         <img src="assets/Pengadu/layout image/misi.png" class="img-fluid rounded-top" alt="" style="width: 1210px; margin-top:40px;">
     </div>
